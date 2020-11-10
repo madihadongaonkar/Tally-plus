@@ -11,3 +11,4 @@
 
 
 
+![Alter comapny page](https://user-images.githubusercontent.com/30971726/98676351-80960200-2381-11eb-9ccd-5c38be76709e.jpg)
