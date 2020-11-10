@@ -7,3 +7,7 @@
 
 
 ![Create company page](https://user-images.githubusercontent.com/30971726/98675547-6a3b7680-2380-11eb-8b43-99bef580cd46.jpg)
+
+
+![2](https://user-images.githubusercontent.com/30971726/98676078-209f5b80-2381-11eb-8832-c8029a4ef68c.png)
+
