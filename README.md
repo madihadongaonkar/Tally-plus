@@ -12,3 +12,23 @@
 
 
 ![Alter comapny page](https://user-images.githubusercontent.com/30971726/98676351-80960200-2381-11eb-9ccd-5c38be76709e.jpg)
+
+
+
+
+
+![backup company page](https://user-images.githubusercontent.com/30971726/98676466-a7eccf00-2381-11eb-8703-dd25cb5540a5.jpg)
+
+
+
+
+![Restore company page](https://user-images.githubusercontent.com/30971726/98676502-b2a76400-2381-11eb-9e1d-194fda4bafb1.jpg)
+
+
+
+![Day Book Report page](https://user-images.githubusercontent.com/30971726/98676551-c18e1680-2381-11eb-8b44-cc02e6b88f87.jpg)
+
+
+
+![Stock Report page](https://user-images.githubusercontent.com/30971726/98676596-d074c900-2381-11eb-954c-63dc56d9c3ab.jpg)
+
